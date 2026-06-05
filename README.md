@@ -1,7 +1,6 @@
 # Retail Sales Analysis
 ## Project overview
 This project analyzes retail sales performance across different regions, customer segments, and product categories.
-
 The goal is to identify sales trends, evaluate profitability, and provide actionable business recommendations.
 ## Business problem
 The company wants to understand sales trends, profitablility, and customer performance.
@@ -15,11 +14,9 @@ Sample Superstore Dataset from Kaggle.
 ## Project Workflow
 - Data Inspection
 - Data Cleaning
-- Feature Engineering
 - SQL Analysis
 - Dashboard Development
 - Business Insights
-
 ## Data Cleaning Tasks
 - Check missing values
 - Remove duplicate records
@@ -31,7 +28,6 @@ Sample Superstore Dataset from Kaggle.
 - Which product categories are most profitable?
 - How do customer segments differ in purchasing behavior?
 - What factors influence profitability?
-
 ## Deliverables
 - Data Cleaning Notebook
 - SQL Analysis Scripts
