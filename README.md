@@ -33,3 +33,6 @@ Sample Superstore Dataset from Kaggle.
 - SQL Analysis Scripts
 - Power BI Dashboard
 - Business Recommendations
+
+- 
+The source of my small icon images is from: "https://www.flaticon.com/free-icons"
