@@ -19,18 +19,21 @@ Key findings include:
 Based on these findings, the business should continue investing in high-performing regions and technology products while maintaining a diversified customer base.
 ## Dashboard 1 - Sales Performance Overview
 Purpose: Provide a high-level view of sales performance across regions, categories, and customer segments.
+
 Key Insights:
 - California generated the highest revenue.
 - Technology contributed the largest share of sales.
 - Consumer segment was the strongest-performing segment.
 ## Dashboard 2 - Sales Performance Overview
 Purpose: Analyze sales growth patterns over time.
+
 Key Insights:
 - Revenue increased steadily over the period.
 - 2017 recorded the strongest YoY growth.
 - March 2015 experienced the highest monthly growth rate.
 ## Dashboard 3 - Sales Performance Overview
 Purpose: Identify high-value customers and top-performing products.
+
 Key Insights:
 - Revenue is highly diversified across customers.
 - Top 10 customers contributed only 6.83% of total sales.
